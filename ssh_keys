@@ -2,4 +2,4 @@
 # id;name;public ssh key
 # 
 # id starting at 1
-# e.g. 1;Jonas;ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICfuZCrFhjuNTY6WhNiLkCOceliw6KhOTaYePgzlluBl
+1;Dennis;ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBAUnSuot5Gq4MJhBCiqrhjhAYfKh70wQrnUHdPnXyOG
